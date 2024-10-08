@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_Vectores", "Unidad_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_Vector2", "Unidad_7\Ejemplo_Vector2\Ejemplo_Vector2.csproj", "{77B06D85-BAEA-4444-A82E-84DE8CCF69AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_Vector3", "Unidad_7\Ejemplo_Vector3\Ejemplo_Vector3.csproj", "{1345DAD7-06F7-4D16-BBB3-D0249269B15D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -269,6 +271,10 @@ Global
 		{77B06D85-BAEA-4444-A82E-84DE8CCF69AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B06D85-BAEA-4444-A82E-84DE8CCF69AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B06D85-BAEA-4444-A82E-84DE8CCF69AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1345DAD7-06F7-4D16-BBB3-D0249269B15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1345DAD7-06F7-4D16-BBB3-D0249269B15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1345DAD7-06F7-4D16-BBB3-D0249269B15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1345DAD7-06F7-4D16-BBB3-D0249269B15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -315,6 +321,7 @@ Global
 		{9B909767-30EE-477A-B48A-FD913EC6BCDB} = {E856DD25-7594-479C-B7A1-1EBFD00F86BB}
 		{EDF1D6EA-0E66-4FEC-BF77-342B581A9F3A} = {D7370ECF-C401-41A8-B16C-212960D5E34D}
 		{77B06D85-BAEA-4444-A82E-84DE8CCF69AA} = {D7370ECF-C401-41A8-B16C-212960D5E34D}
+		{1345DAD7-06F7-4D16-BBB3-D0249269B15D} = {D7370ECF-C401-41A8-B16C-212960D5E34D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {254D5412-27DD-4A63-9333-DAB83C470334}
